@@ -1,0 +1,18 @@
+{
+  "name": "movie-chatbot",
+  "version": "1.0.0",
+  "description": "A chatbot for movie information",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.1",
+    "dotenv": "^16.4.1",
+    "express": "^4.21.2",
+    "fs": "0.0.1-security",
+    "langchain": "^0.1.9",
+    "openai": "^4.28.0"
+  }
+}
