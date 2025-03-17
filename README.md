@@ -1,4 +1,4 @@
-# MovieChatBot: RAG-Powered Semantic Search chat bot with OpenAI Vector Embeddings and ChatCompletion API
+# MovieChatBot: RAG-Based Semantic Search chat bot with OpenAI Vector Embeddings and ChatCompletion API
 
 A sophisticated movie recommendation chatbot that leverages Retrieval-Augmented Generation (RAG), vector embeddings, and OpenAI's ChatCompletion API to provide intelligent movie suggestions and engage in natural conversations about films.
 
@@ -90,7 +90,4 @@ A sophisticated movie recommendation chatbot that leverages Retrieval-Augmented 
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
+![image](https://github.com/user-attachments/assets/7bca3097-bea1-49f0-86f8-69820f8f4b86)
